@@ -1,4 +1,4 @@
-# EKS CLUSTER SET-UP by VENKATESH GUDAPATI
+# EKS CLUSTER SET-UP 
   * Take a linux machine (t2.micro)
   * Inatall Unzip & AWS CLI. For Official document [Refer here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
     ```

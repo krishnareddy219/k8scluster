@@ -1,4 +1,4 @@
-# Kubernetes Setup by VENKATESH GUDAPATI
+# Kubernetes Setup
   * Master must be linux machine. Nodes can be anything.
   * Installing Container runtime. Our choise is Docker.(on Both Master & Nodes)
     ```
